@@ -6,7 +6,7 @@ Este repositorio contiene el material teórico-práctico y la bibliografía nece
 
 ## Contenido del Repositorio
 
-  * **`Clase1_Dimensionalidad.ipynb`**: Notebook con la introducción teórica y ejercicios prácticos de simulación de datos tipo microarray, cálculo de falsos positivos y aplicación de filtros estadísticos.
+  * **`Clase1_Dimensionalidad.ipynb`**: Notebook con la introducción teórica y ejercicios prácticos de simulación de datos tipo microarray, cálculo de falsos positivos y aplicación de filtros estadísticos.  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/Reconocimiento-de-patrones-UNQ/Collabs/blob/main/IntroMachinelearning.ipynb](https://drive.google.com/file/d/18mwLtkgGqPRtJpNWMqZMjqVAGZ0sE0D9/view?usp=sharing))
   * **`bibliografia_clase1.md`**: Compendio detallado de lecturas obligatorias, videos recomendados (incluyendo recursos de StatQuest y 3Blue1Brown) y acceso a datasets reales como *Golub leukemia*.
 
 ## Bibliografía Destacada
